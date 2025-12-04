@@ -18,18 +18,6 @@ function Footer() {
 
   const socialLinks = [
     {
-      href: "https://www.facebook.com/share/19BKcvb4Uj/?mibextid=wwXIfr",
-      label: "Facebook",
-      icon: <Facebook size={22} />,
-      color: "hover:bg-blue-600",
-    },
-    {
-      href: "https://www.instagram.com/saheer07?igsh=MW16MTE2eHV5emtydw==",
-      label: "Instagram",
-      icon: <Instagram size={22} />,
-      color: "hover:bg-gradient-to-br hover:from-purple-600 hover:to-pink-600",
-    },
-    {
       href: "https://github.com/fathimasithara01",
       label: "GitHub",
       icon: <Github size={22} />,
